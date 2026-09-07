@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "linear-status-dashboard",
+  "owner": "emile-bodin",
+  "repo": "emile-bodin/linear-status-dashboard",
+  "description": "Live status overview for Linear issues and projects.",
+  "createdAt": "2026-09-07T22:08:47.637Z"
+}
