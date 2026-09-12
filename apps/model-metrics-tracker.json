@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "model-metrics-tracker",
+  "owner": "nameisvignesh",
+  "repo": "nameisvignesh/model-metrics-tracker",
+  "description": "Track model tokens, latency, costs, and benchmarks with top-right HUD overlay",
+  "createdAt": "2026-09-12T14:24:57.366Z"
+}
